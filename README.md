@@ -1,3 +1,3 @@
 # example_workflows
 
-Example workflows for ComfyUI. Drag any asset directly into ComfyUI to try it.
+Example workflows for Hanzo Studio. Drag any asset directly into Hanzo Studio to try it.
