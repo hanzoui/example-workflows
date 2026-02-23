@@ -36,7 +36,7 @@
         "models": [
           {
             "name": "oldt5_xxl_fp8_e4m3fn_scaled.safetensors",
-            "url": "https://huggingface.co/hanzoai/cosmos_1.0_text_encoder_and_VAE_Hanzo Studio/resolve/main/text_encoders/oldt5_xxl_fp8_e4m3fn_scaled.safetensors",
+            "url": "https://huggingface.co/hanzoai/cosmos_1.0_text_encoder_and_VAE_HanzoStudio/resolve/main/text_encoders/oldt5_xxl_fp8_e4m3fn_scaled.safetensors",
             "directory": "text_encoders"
           }
         ]
@@ -446,7 +446,7 @@
         "Node name for S&R": "SaveVideo"
       },
       "widgets_values": [
-        "video/Hanzo Studio",
+        "video/HanzoStudio",
         "auto",
         "auto"
       ]
@@ -552,7 +552,7 @@
       "title": "Model links",
       "properties": {},
       "widgets_values": [
-        "[Tutorial](http://docs.hanzo.ai/tutorials/video/comos/cosmos-predict2-video2world)｜[教程](http://docs.hanzo.ai/zh-CN/tutorials/video/comos/cosmos-predict2-video2world)\n\n**Diffusion model**\n\n[cosmos_predict2_2B_video2world_480p_16fps.safetensors](https://huggingface.co/hanzoui/Cosmos_Predict2_repackaged/resolve/main/cosmos_predict2_2B_video2world_480p_16fps.safetensors)\n\n**Text encoder**\n\n[oldt5_xxl_fp8_e4m3fn_scaled.safetensors](https://huggingface.co/hanzoai/cosmos_1.0_text_encoder_and_VAE_Hanzo Studio/resolve/main/text_encoders/oldt5_xxl_fp8_e4m3fn_scaled.safetensors)\n\n**VAE**\n\n[wan_2.1_vae.safetensors](https://huggingface.co/hanzoui/Wan_2.1_HanzoStudio_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors)\n\n\n```\nHanzo Studio/\n├── models/\n│   ├── diffusion_models/\n│   │   └─── cosmos_predict2_2B_t2i.pt \n│   ├── text_encoders/\n│   │   └─── oldt5_xxl_fp8_e4m3fn_scaled.safetensors\n│   └── vae/\n│       └──  wan_2.1_vae.safetensors\n```"
+        "[Tutorial](http://docs.hanzo.ai/tutorials/video/comos/cosmos-predict2-video2world)｜[教程](http://docs.hanzo.ai/zh-CN/tutorials/video/comos/cosmos-predict2-video2world)\n\n**Diffusion model**\n\n[cosmos_predict2_2B_video2world_480p_16fps.safetensors](https://huggingface.co/hanzoui/Cosmos_Predict2_repackaged/resolve/main/cosmos_predict2_2B_video2world_480p_16fps.safetensors)\n\n**Text encoder**\n\n[oldt5_xxl_fp8_e4m3fn_scaled.safetensors](https://huggingface.co/hanzoai/cosmos_1.0_text_encoder_and_VAE_HanzoStudio/resolve/main/text_encoders/oldt5_xxl_fp8_e4m3fn_scaled.safetensors)\n\n**VAE**\n\n[wan_2.1_vae.safetensors](https://huggingface.co/hanzoui/Wan_2.1_HanzoStudio_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors)\n\n\n```\nHanzoStudio/\n├── models/\n│   ├── diffusion_models/\n│   │   └─── cosmos_predict2_2B_t2i.pt \n│   ├── text_encoders/\n│   │   └─── oldt5_xxl_fp8_e4m3fn_scaled.safetensors\n│   └── vae/\n│       └──  wan_2.1_vae.safetensors\n```"
       ],
       "color": "#432",
       "bgcolor": "#653"
